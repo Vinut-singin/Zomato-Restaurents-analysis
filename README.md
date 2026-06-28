@@ -1,7 +1,7 @@
 # Zomato-Restaurents-analysis
 Excel project for Zomato Restaurents analysis
 
-
+LINK = https://onedrive.live.com/personal/30fdb08794972c28/_layouts/15/Doc.aspx?sourcedoc=%7B4D7A36E3-5196-4C30-BA22-FE644BCCF90B%7D&file=Zomato_DataB.xlsx&action=default&mobileredirect=true
 # 🍽️ Zomato Data Analysis Dashboard
 
 An interactive Excel dashboard built using Zomato restaurant data to analyze customer preferences, restaurant performance, cuisines, ratings, and geographical trends. The dashboard provides actionable insights through dynamic visualizations, filters, and summary metrics.
